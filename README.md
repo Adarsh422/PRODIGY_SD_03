@@ -32,7 +32,8 @@ Develop a program that allows users to store and manage contact information. The
 4. Add, manage, and track your tasks using the intuitive UI.
 
 ## Screenshots
-![Screenshot 2024-10-16 140817](https://github.com/user-attachments/assets/3b6fa739-bcae-487f-a218-cdb12ede0dc1)
+![Screenshot 2024-10-16 141540](https://github.com/user-attachments/assets/21b4b6bf-6441-47f8-89e5-7527338ef47e)
+
 
 
 
